@@ -1,0 +1,19 @@
+nav{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background: #fff;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-around;
+    transform:translateY(0);
+    a{
+        text-decoration: none;
+        color:#ed143d ;
+        text-transform: uppercase;
+        
+    }
+}
+.bye{
+    transform:translateY(-100%);
+}
